@@ -181,7 +181,7 @@ definitions:
         items:
           $ref: '#/definitions/Student'
 
-# Errors
+# Errores
   ErrorModel:
     type: object
     required:
